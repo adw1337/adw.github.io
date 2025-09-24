@@ -55,7 +55,8 @@ body {
 }
 
 .header {
-  background-image: url(/images/bg.png);
+  background-image: url(adw.github.io/images
+/bg.png);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -656,5 +657,6 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
 
 
